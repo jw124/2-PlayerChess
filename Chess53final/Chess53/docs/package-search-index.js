@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"chess"},{"l":"controller"},{"l":"model.board"},{"l":"model.piece"},{"l":"util"},{"l":"util.check"},{"l":"view"},{"l":"所有程序包","url":"allpackages-index.html"}]
